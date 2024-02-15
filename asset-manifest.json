@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-hex-color/static/css/main.f855e6bc.css",
+    "main.js": "/fcc-hex-color/static/js/main.11b7b437.js",
+    "static/js/592.5dc09410.chunk.js": "/fcc-hex-color/static/js/592.5dc09410.chunk.js",
+    "index.html": "/fcc-hex-color/index.html",
+    "main.f855e6bc.css.map": "/fcc-hex-color/static/css/main.f855e6bc.css.map",
+    "main.11b7b437.js.map": "/fcc-hex-color/static/js/main.11b7b437.js.map",
+    "592.5dc09410.chunk.js.map": "/fcc-hex-color/static/js/592.5dc09410.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.11b7b437.js"
+  ]
+}
